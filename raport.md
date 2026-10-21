@@ -2,7 +2,7 @@
 
 ## 1. Dane procesora i pamięci
 * **Model procesora:** AMD Ryzen 5 5600GT with Radeon Graphics (6 rdzeni, 12 wątków, architektura x86_64)
-* **Pamięć RAM:** 7.4 GiB (pamięć przydzielona dla środowiska WSL/Linux)
+* **Pamięć RAM:** 2.4 GiB (pamięć przydzielona dla środowiska WSL/Linux)
 
 ## 2. Log z wywołania CMake wskazujący na możliwość kompilacji IGA-ADS
 Konfiguracja środowiska (wykonana poleceniem `just config` wewnątrz kontenera) zakończyła się sukcesem, co potwierdza gotowość do kompilacji:
